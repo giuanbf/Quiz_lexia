@@ -41,6 +41,7 @@ console.log(quizStage)
           <Routes>
             <Route exact path="/" element={<About />} />
             <Route exact path="/about" element={<Home />} />
+            <Route path="/quiz_lexia" element={<Home />} />
             <Route path="/roles" element={<Roles />} />
             <Route path="/process" element={<Process onComplete={() => {
                   setQuizStage('quiz1');
