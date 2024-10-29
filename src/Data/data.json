@@ -1,0 +1,94 @@
+{
+    "process_reference_id": 2745,
+    "process_text": "Num. 54321098765 - Pág. 1\nAssinado eletronicamente por: LUCIANA GOMES DE OLIVEIRA - 15/02/2025 10:45:00\nhttps://pje-consulta-publica.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?nd=25021510450000000105432109876\nNúmero do documento: 25021510450000000105432109876\nPODER JUDICIÁRIO DO ESTADO DE MINAS GERAIS\nJustiça de Primeira Instância\nComarca de Juiz de Fora / 5ª Vara Cível da Comarca de Juiz de Fora\nRua Halfeld, 1220, - lado ímpar, Centro, Juiz de Fora - MG - CEP: 36010-682\nPROCESSO Nº: 01234567-89.2024.8.13.0501\nCLASSE: [CÍVEL] PROCEDIMENTO COMUM CÍVEL (7)\nASSUNTO: [Indenização por Dano Moral, Indenização por Dano Material]\nLUCAS FERNANDO SILVA CPF: 987.654.321-09\nPEDRO HENRIQUE RIBEIRO CPF: não informado\nDESPACHO\nVistos etc. MM\nHavendo requerimento de prova oral em ID. 54321098765 e 98765432109, designo audiência de\ninstrução e julgamento para 15/04/2025 às 10 h.\nA audiência será realizada presencialmente no prédio do Fórum de Juiz de Fora - Rua Halfeld, 1220,\nbairro Centro, sala 305, 3º andar.\nIntimem-se as partes para que informem nos autos o rol das testemunhas com antecedência\nmínima de 10 (dez) dias da data da audiência.\nAs partes deverão providenciar a intimação das testemunhas arroladas, nos termos do art. 455\ndo CPC, ficando ciente da presunção absoluta inserta no § 2º do artigo em comento.\nAtente-se a secretaria, caso necessário, sobre a indispensabilidade de expedição de Carta\nPrecatória e Requisição de Militar.\nProceda a secretaria as intimações necessárias.\nI.\nJuiz de Fora, data da assinatura eletrônica.\nLUCIANA GOMES DE OLIVEIRA\nJuíza de Direito\nNum. 54321098765 - Pág. 2\nAssinado eletronicamente por: LUCIANA GOMES DE OLIVEIRA - 15/02/2025 10:45:00\nhttps://pje-consulta-publica.tjmg.jus.br:443/pje/Processo/ConsultaDocumento/listView.seam?nd=25021510450000000105432109876\nNúmero do documento: 25021510450000000105432109876\n5ª Vara Cível da Comarca de Juiz de Fora",
+    "process_summary": "\"resumo\": [\n        \"Designação de audiência de instrução e julgamento para 15/04/2025 às 10 h.\",\n        \"Audiência será realizada presencialmente no prédio do Fórum de Juiz de Fora.\",\n        \"Partes devem informar o rol das testemunhas com antecedência mínima de 10 dias da data da audiência.\",\n        \"Partes devem providenciar a intimação das testemunhas arroladas, nos termos do art. 455 do CPC.\",\n        \"Secretaria deve expedir Carta Precatória e Requisição de Militar, se necessário.\"\n    ],\n    \"numero_do_processo\": \"01234567-89.2024.8.13.0501\",\n    \"classe\": \"[CÍVEL] PROCEDIMENTO COMUM CÍVEL (7)\",\n    \"assunto\": \"[Indenização por Dano Moral, Indenização por Dano Material]\",\n    \"autor\": \"LUCAS FERNANDO SILVA\",\n    \"réu\": \"PEDRO HENRIQUE RIBEIRO\",\n    \"valor da causa\": \"Não informado\"",
+    "process_id": null,
+    "process_text_questions": {
+        "questions": [
+            {
+                "question": "Quem assinou eletronicamente o documento?",
+                "options": [
+                    "LUCIANA GOMES DE OLIVEIRA",
+                    "LUCAS FERNANDO SILVA",
+                    "PEDRO HENRIQUE RIBEIRO",
+                    "Juíza de Direito"
+                ],
+                "correct_answer": "LUCIANA GOMES DE OLIVEIRA"
+            },
+            {
+                "question": "Qual é o número do documento mencionado?",
+                "options": [
+                    "25021510450000000105432109876",
+                    "01234567-89.2024.8.13.0501",
+                    "987.654.321-09",
+                    "36010-682"
+                ],
+                "correct_answer": "25021510450000000105432109876"
+            },
+            {
+                "question": "Qual a data da designação da audiência de instrução e julgamento?",
+                "options": [
+                    "15/04/2025",
+                    "10 h",
+                    "1220",
+                    "36010-682"
+                ],
+                "correct_answer": "15/04/2025"
+            },
+            {
+                "question": "Onde será realizada a audiência presencialmente?",
+                "options": [
+                    "Fórum de Juiz de Fora",
+                    "Rua Halfeld, 1220",
+                    "Juiz de Fora - MG",
+                    "sala 305, 3º andar"
+                ],
+                "correct_answer": "Fórum de Juiz de Fora"
+            }
+        ]
+    },
+    "process_summary_questions": {
+        "questions": [
+            {
+                "question": "O que foi designado para o dia 15/04/2025 às 10 h?",
+                "options": [
+                    "Leilão",
+                    "Audiência de Instrução e Julgamento",
+                    "Reunião",
+                    "Festa"
+                ],
+                "correct_answer": "Audiência de Instrução e Julgamento"
+            },
+            {
+                "question": "Onde a audiência será realizada presencialmente?",
+                "options": [
+                    "Fórum de Juiz de Fora",
+                    "Rua Halfeld, 1220",
+                    "Centro, Juiz de Fora - MG",
+                    "sala 305, 3º andar"
+                ],
+                "correct_answer": "Fórum de Juiz de Fora"
+            },
+            {
+                "question": "O que as partes devem informar com antecedência mínima de 10 dias da data da audiência?",
+                "options": [
+                    "Resultado do processo",
+                    "Rol das testemunhas",
+                    "Valor da causa",
+                    "Local da audiência"
+                ],
+                "correct_answer": "Rol das testemunhas"
+            },
+            {
+                "question": "O que a secretaria deve expedir se necessário?",
+                "options": [
+                    "Carta de Condução",
+                    "Carta Precatória e Requisição de Militar",
+                    "Requisição de Provas",
+                    "Carta de Aviso"
+                ],
+                "correct_answer": "Carta Precatória e Requisição de Militar"
+            }
+        ]
+    }
+}
